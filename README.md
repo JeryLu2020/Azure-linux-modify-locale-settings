@@ -40,7 +40,7 @@ https://github.com/Azure-App-Service/php/tree/master/7.0-apache
     echo "<br> locale changed to <br>".$currentlocale2;
 ```
 
-#### result:
+### result:
 ```
     change locale...
     locale changed to 
